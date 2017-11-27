@@ -3,7 +3,7 @@ package shiyan1;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/*
 public class blackTest {
 
     test t=new test();
@@ -23,3 +23,4 @@ public class blackTest {
 
 
 }
+*/
